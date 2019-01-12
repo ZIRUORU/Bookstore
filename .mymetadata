@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="day25_01_resubmit"
+  id="myeclipse.1414310317512"
+  context-root="/day25_01_resubmit"
+  j2ee-spec="5.0"
+  archive="day25_01_resubmit.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
